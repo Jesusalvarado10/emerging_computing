@@ -1,0 +1,11 @@
+{
+  "train_total": 100000,
+  "train_real": 50000,
+  "train_fake": 50000,
+  "val_total": 20000,
+  "test_total": 20000,
+  "class_weights": {
+    "0": 1.0,
+    "1": 1.0
+  }
+}
