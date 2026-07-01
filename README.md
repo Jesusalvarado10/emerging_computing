@@ -8,6 +8,14 @@
 
 ---
 
+## 🔗 Enlaces de Entrega Oficial (Proyecto 2)
+
+*   **Informe (Google Docs):** [https://docs.google.com/document/d/1opg8STuevFuQZUCTYeuoaOVealHe1HMIR1MN4Boqm_g/edit?tab=t.0]
+*   **Notebook Público (Google Colab):** [https://colab.research.google.com/drive/13yelre8tHFJsmnX2d8d8i1tjV73atSMk?usp=sharing]
+*   **Documento AI Disclosure:** Se adjunta en el ZIP de entrega como `AI_Disclosure.pdf`
+
+---
+
 ## 🧠 Descripción
 
 Sistema de clasificación binaria que detecta si una imagen facial es **real** o ha sido manipulada mediante técnicas **deepfake**. Implementado con Transfer Learning sobre MobileNetV2 (pre-entrenada en ImageNet).
