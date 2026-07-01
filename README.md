@@ -10,7 +10,7 @@
 
 ## 🔗 Enlaces de Entrega Oficial (Proyecto 2)
 
-*   **Informe (Google Docs):** [https://docs.google.com/document/d/1opg8STuevFuQZUCTYeuoaOVealHe1HMIR1MN4Boqm_g/edit?tab=t.0]
+*   **Informe (Google Docs):** [https://docs.google.com/document/d/1opg8STuevFuQZUCTYeuoaOVealHe1HMIR1MN4Boqm_g/edit?usp=sharing]
 *   **Notebook Público (Google Colab):** [https://colab.research.google.com/drive/13yelre8tHFJsmnX2d8d8i1tjV73atSMk?usp=sharing]
 *   **Documento AI Disclosure:** Se adjunta en el ZIP de entrega como `AI_Disclosure.pdf`
 
