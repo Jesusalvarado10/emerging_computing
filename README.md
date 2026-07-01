@@ -73,6 +73,24 @@ Descargar uno de los siguientes datasets de Kaggle y colocar imágenes en `data/
 
 ## ▶️ Uso
 
+Si ya descargaste el modelo entrenado (`best_model.keras`) desde Colab, puedes probarlo fácilmente con cualquier foto que tengas en tu computadora.
+
+1. **Asegúrate de que el modelo esté en la carpeta correcta:**
+   Guarda tu archivo `best_model.keras` en la ruta `outputs/models/best_model.keras`.
+
+2. **Ejecuta el script de predicción:**
+   Abre una terminal en la carpeta del proyecto y corre el siguiente comando, pasándole la ruta de la imagen que quieres analizar:
+
+   ```bash
+   # Ejemplo analizando una foto real:
+   python predict.py "test.png"
+
+   # Ejemplo analizando una foto que está dentro de otra carpeta:
+   python predict.py "data/raw/fake/imagen_falsa.jpg"
+   ```
+
+El programa cargará el modelo y te devolverá un veredicto en pantalla indicando si es **REAL** o **FAKE**, junto con el porcentaje de certeza de la red neuronal.
+
 ```bash
 # Ejecutar el pipeline completo
 python main.py
